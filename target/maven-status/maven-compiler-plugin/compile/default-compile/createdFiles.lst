@@ -1,0 +1,7 @@
+com\example\ReservationService.class
+com\example\Client.class
+com\example\NotificationService.class
+com\example\ClientNotFoundException.class
+com\example\Facture.class
+com\example\ClientRepository.class
+com\example\FacturationService.class
